@@ -1,5 +1,7 @@
 # 🗺️ GmapActivity
 
+![App Preview](preview.png)
+
 A lightweight and minimal Android application that integrates **Google Maps SDK for Android** to display a simple map interface. The map is loaded using a valid API key from **Google Cloud Platform** (GCP).
 
 ---
