@@ -28,5 +28,5 @@ Follow these steps to run the app on your local machine:
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/GmapActivity.git
+   git clone https://github.com/athalawiksa/GmapActivity.git
    cd GmapActivity
