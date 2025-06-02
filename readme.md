@@ -1,25 +1,32 @@
-# GmapActivity
+# 🗺️ GmapActivity
 
-This is a simple Android application that displays a Google Map using the Google Maps SDK for Android. The map is loaded based on a valid API key from Google Cloud.
-
-## Features
-
-- Displays Google Maps using SupportMapFragment
-- Demonstrates basic Google Maps integration in Android
-- Handles system window insets with edge-to-edge support
-
-## Requirements
-
-- Android SDK 35
-- Google Maps API key from Google Cloud
-
-## How to Build
-
-1. Clone this repository  
-2. Open in Android Studio  
-3. Add your Google Maps API key in `AndroidManifest.xml`  
-4. Build and run the app on your device or emulator
+A lightweight and minimal Android application that integrates **Google Maps SDK for Android** to display a simple map interface. The map is loaded using a valid API key from **Google Cloud Platform** (GCP).
 
 ---
 
-Feel free to contribute or open issues.
+## ✨ Features
+
+- 🧭 Displays Google Maps using `SupportMapFragment`
+- 📱 Built with modern Android components and `EdgeToEdge` support
+- ⚙️ Simple integration and easy to customize
+- 🧪 Designed for testing and learning Google Maps API basics
+
+---
+
+## 📋 Requirements
+
+- Android Studio Flamingo or later
+- Android **SDK 35**
+- A valid **Google Maps API Key** from Google Cloud Console
+- `minSdk` version 24 or higher
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the app on your local machine:
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/your-username/GmapActivity.git
+   cd GmapActivity
